@@ -1,0 +1,4 @@
+[submodule "test_submodule"]
+	path = test_submodule
+	url = https://github.com/nsatsuki/test_submodule
+	branch = master
